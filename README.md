@@ -1,0 +1,2 @@
+# aselab
+Automatizált szoftverfejlesztés labor
